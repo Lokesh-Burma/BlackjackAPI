@@ -1,4 +1,4 @@
-# BlackjackAPI
+# BlackjackAPI 
 
 Used Django, Django rest framework to create api
 
@@ -15,6 +15,8 @@ Created user, game, hand models in models.py (of api)
 Registered the above models in api/admin.py to easily add and view data
 
 Can add and display user, game and hand information through /admin url 
+
+Use admin credentials to login - (Lokesh, 12345)
 
 Used migrations to store data received through admin url, in sqlite3 database 
 
